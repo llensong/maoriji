@@ -1,0 +1,36 @@
+.header{
+    background: linear-gradient(to right, #045968 10%,#10bce8 80%);
+    color: white;
+    padding-left: 10px;
+    height: 80px;
+}
+.h2{
+    font-family: cursive;
+    height: 100%;
+    line-height: 80px;
+    width: 100px;
+    text-align: center;
+    float: left;
+}
+.ing{
+    width: 116px;
+    margin: auto;
+    height: 85%;
+    float: left;
+    padding: 6px;
+
+}
+.user{
+    float: right;
+    height: 100%;
+    text-align: center;
+    font-size: 15px;
+}
+.usergl{
+    height: 46%;
+    line-height: 50px;
+    padding: 10px;
+}
+.qt{
+    line-height: 10px;
+}

@@ -1,0 +1,29 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+h1,h2,h3,h4,h5,h6,ul{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+html, body { height: 100%; }
+body{ margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+/* //布局方式=>grid布局 */
+.full{
+    width: 100%;
+    height: 100%;
+}
+.girid{
+    display: grid;
+}

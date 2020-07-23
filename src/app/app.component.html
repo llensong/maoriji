@@ -1,0 +1,16 @@
+<app-header></app-header>
+<!-- 导航栏 -->
+<ul class="dh">
+  <li >
+    <a [routerLink]="[ '/home' ]" routerLinkActive="active">首页</a>
+  </li>
+  <li>
+    小交流
+  </li>
+  <li style="float: right;">
+    铲屎官社区
+  </li>
+</ul>
+<div class="contaniner">
+  <router-outlet></router-outlet>
+</div>
